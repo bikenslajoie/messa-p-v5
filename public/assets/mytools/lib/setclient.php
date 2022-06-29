@@ -1,0 +1,1 @@
+<?php		$soapParameters = Array('login' => "admin", 'password' => 'uJvFYsPBmKevLhCaK4EZMHLZuBGFg5ksVCpLuRLTSY37HVyhgRephD4VQV6wRFkxPj4RQ7EghqmZ9XKsLepyySFB4SzxEdLrFWb3') ;	$client = new SOAPclient("https://www.debian.messa.online/wsmessa/server.php?wsdl",$soapParameters);?>

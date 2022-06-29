@@ -1,0 +1,4 @@
+Nom;Prenom;Sexe;Date de naissance (JJ/MM/AAAA);Lieu naissance;Telephone;Email;Adresse postale;NIF;CIN;Code Etudiant
+Eleve1;Eleve2;M;12/12/2001;Port-au-Prince;12345678;test@yahoo.fr;PPC;005-002-5867-9;1000-90-90-11-11;
+Eleve1;Eleve2;M;12/12/2002;Port-au-Prince;12345678;test@yahoo.fr;PPC;005-002-5867-9;1000-90-90-11-12;
+Eleve1;Eleve2;M;12/12/2003;Port-au-Prince;12345678;test@yahoo.fr;PPC;005-002-5867-9;1000-90-90-11-14;
